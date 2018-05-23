@@ -26,6 +26,13 @@ public class LoginPage extends BasePage{
 	@FindBy(id="loginbtn")
 	public  WebElement LoginButton;
 	
+	@FindBy(xpath="//a[.=' Forgot Password ? ']")
+	public WebElement ForgetPassword;
+	
+	@FindBy(xpath="//a[.='Register Now']")
+	public WebElement RegisterNow;
+	
+	
 	
 
 }
