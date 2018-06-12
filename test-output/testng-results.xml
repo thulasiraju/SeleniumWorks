@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20870" started-at="2018-05-23T09:35:52Z" finished-at="2018-05-23T09:36:13Z">
+  <suite name="Default suite" duration-ms="19021" started-at="2018-05-24T07:06:12Z" finished-at="2018-05-24T07:06:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20870" started-at="2018-05-23T09:35:52Z" finished-at="2018-05-23T09:36:13Z">
+    <test name="Default test" duration-ms="19021" started-at="2018-05-24T07:06:12Z" finished-at="2018-05-24T07:06:31Z">
       <class name="com.test.LoginTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.LoginTest@473b3b7a]" name="beforeTest" is-config="true" duration-ms="5132" started-at="2018-05-23T09:35:52Z" finished-at="2018-05-23T09:35:57Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.LoginTest@77b7ffa4]" name="beforeTest" is-config="true" duration-ms="3755" started-at="2018-05-24T07:06:12Z" finished-at="2018-05-24T07:06:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="firstTest()[pri:1, instance:com.test.LoginTest@473b3b7a]" name="firstTest" duration-ms="15079" started-at="2018-05-23T09:35:57Z" finished-at="2018-05-23T09:36:12Z">
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:com.test.LoginTest@77b7ffa4]" name="firstTest" duration-ms="13791" started-at="2018-05-24T07:06:16Z" finished-at="2018-05-24T07:06:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="logoutTest()[pri:2, instance:com.test.LoginTest@473b3b7a]" name="logoutTest" duration-ms="495" started-at="2018-05-23T09:36:12Z" finished-at="2018-05-23T09:36:12Z">
+        <test-method status="PASS" signature="logoutTest()[pri:2, instance:com.test.LoginTest@77b7ffa4]" name="logoutTest" duration-ms="1284" started-at="2018-05-24T07:06:30Z" finished-at="2018-05-24T07:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginTest@473b3b7a]" name="tearDown" is-config="true" duration-ms="119" started-at="2018-05-23T09:36:12Z" finished-at="2018-05-23T09:36:13Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginTest@77b7ffa4]" name="tearDown" is-config="true" duration-ms="115" started-at="2018-05-24T07:06:31Z" finished-at="2018-05-24T07:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
